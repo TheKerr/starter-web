@@ -9,7 +9,9 @@ Sample website with plenty of files for demos
 ## Introductions
 
 Here's a description for introductions
+Added some more text under introductions
 
 ## Deployment
 
 Here's a description for deployment
+Added some more text to deployment
