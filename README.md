@@ -15,3 +15,6 @@ Added some more text under introductions
 
 Here's a description for deployment
 Added some more text to deployment
+
+## Copyright
+Copyright 2018 Git training
