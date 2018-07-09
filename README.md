@@ -18,3 +18,7 @@ Added some more text to deployment
 
 ## Copyright
 Copyright 2018 Git training
+
+
+## How to contribute
+plaese fork this repo
